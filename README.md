@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dev-print
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, html, css, javascript
 - 🌱 I’m currently learning some Things
-- 📫 How to reach me: None for now
+- 📫 How to reach me: Per Email, Discord.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Github gives me This Readme
 
